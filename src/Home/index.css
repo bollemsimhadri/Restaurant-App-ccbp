@@ -1,0 +1,43 @@
+.spinner-con {
+  display: flex;
+  place-items: center;
+  height: 100vh;
+}
+
+.tab-container {
+  overflow-y: auto;
+  box-shadow: 0px 10px 10px -15px #111;
+}
+
+.each-tab-item {
+  list-style-type: none;
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding: 15px 0px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.active-tab-item {
+  color: #ff6347;
+  font-weight: 600;
+  border-bottom: 2px solid #ff6347;
+}
+
+.dishes-list-container {
+  padding: 25px;
+  list-style-type: none;
+}
+
+.tab-category-btn {
+  color: inherit;
+  font-family: Roboto;
+  font-weight: 500;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+.tab-text {
+  white-space: pre-line;
+}
