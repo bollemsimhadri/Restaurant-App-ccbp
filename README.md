@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Develop a restaurant page, ensuring it is user-friendly and visually appealing.
 
 #### Mobile Interface
@@ -41,3 +42,6 @@ Develop a restaurant page, ensuring it is user-friendly and visually appealing.
   </button>
   </center>
 </a>
+=======
+# Restaurant-App-ccbp
+>>>>>>> 4c6670525641a983ec9c9a9d7660e2f680a7d206
